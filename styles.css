@@ -1,0 +1,28 @@
+ /*  (*) use to apply on all elemant */
+ 
+ 
+ *{
+	 
+  margin:0;
+  padding:0;
+  
+  
+  
+    
+}
+
+body{
+  
+  
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+.container{
+  
+  max-width: 1000px;
+  
+  background-color: turquoise;
+  margin: 0 auto;
+  
+}
